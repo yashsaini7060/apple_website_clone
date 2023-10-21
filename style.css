@@ -1,0 +1,485 @@
+@font-face {
+  font-family: 'SF Pro Icons';
+  src: url('assets/fonts/SFProIcons-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('assets/fonts/SFProText-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('assets/fonts/SFProDisplay-Semibold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Icons';
+  src: url('assets/fonts/SFProIcons-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('assets/fonts/SFProText-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('assets/fonts/SFProText-Italic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('assets/fonts/SFProText-Semibold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Icons';
+  src: url('assets/fonts/SFProIcons-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('assets/fonts/SFProText-Italic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('assets/fonts/SFProDisplay-Semibold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Icons';
+  src: url('assets/fonts/SFProIcons-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('assets/fonts/SFProText-Italic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('assets/fonts/SFProDisplay-Semibold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Icons';
+  src: url('assets/fonts/SFProIcons-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Icons';
+  src: url('assets/fonts/SFProIcons-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('assets/fonts/SFProText-Semibold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('assets/fonts/SFProText-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('assets/fonts/SFProText-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('assets/fonts/SFProText-Semibold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('assets/fonts/SFProText-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('assets/fonts/SFProText-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('assets/fonts/SFProText-Italic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('assets/fonts/SFProText-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Icons';
+  src: url('assets/fonts/SFProIcons-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Icons';
+  src: url('assets/fonts/SFProIcons-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('assets/fonts/SFProDisplay-Semibold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('assets/fonts/SFProText-Semibold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  src: url('assets/fonts/SFProText-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: 'SF Pro Text';
+}
+
+.navbar{
+  background-color: #000000CC;
+  display: flex;
+  padding: 0px 29rem;
+  align-items: center;
+  justify-content: space-between;
+  height: 3rem;
+  font-size: 0.8rem;
+}
+
+nav>ul{
+  display: flex;
+  list-style: none;
+}
+
+nav>ul>li>a{
+  font-family: SF Pro Text;
+  text-decoration: none;
+  padding: 0 30px;
+  color: white;
+}
+
+.search{
+  margin-right: 10px;
+}
+
+.phones__nav{
+  display: flex;
+  padding: 1rem 0rem;
+  justify-content: center;
+  align-items:self-start; 
+  background: #FBFBFD;  ;
+}
+/* .phones__nav>div>div>img{
+  height: 70px;
+} */
+
+.phone_detail{
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+.phone_name{
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.new{
+  font-size: 0.7rem;
+  color: #BF4800; 
+}
+
+
+.mobile_sections{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 3rem 0rem 0rem 0rem;
+}
+
+.mobile_sections>div>h6{
+  color: #6E6E73;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.mobile_sections>div>h3{
+  font-size: 1.6rem;
+  margin: 0.8rem 0rem;
+}
+
+.mobile_sections>div>h1{
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.mobile_sections>div>h2{
+  /* font-size: 2.5rem; */
+  font-weight: 500;
+  margin-bottom: 1rem;
+
+}
+
+.gradient-text {
+  /* Fallback: Set a background color. */
+  background-color: red;
+  
+  /* Create the gradient. */
+  background: linear-gradient(90deg, #2CA2B4 0%, #5598DE 24%, #7F87FF 45%, #F65AAD 76%, #EC3D43 100%);
+
+  
+  /* Set the background size and repeat properties. */
+  background-size: 100%;
+  background-repeat: repeat;
+
+  /* Use the text as a mask for the background. */
+  /* This will show the gradient as a text color rather than element bg. */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+}
+
+.buttons{
+  margin-bottom: 2rem;
+}
+
+.buy{
+  height: 2.3rem;
+  width: 4rem;
+  font-size: 1rem;
+  background-color: #0071E3;
+  color: white;
+  border-radius: 1.2rem;
+  border: none;
+}
+
+.learn_more{
+  background-color: transparent;
+  color: #0071E3;
+  font-size: 1rem;
+  font-weight: 500;
+  border: none;
+  margin-left: 2rem;
+}
+
+.pro{
+  height: 100vh;
+  background: #000;
+  color: white;
+  justify-content: space-between;
+}
+
+.gradient-text-pro {
+  /* Fallback: Set a background color. */
+  background-color: red;
+  
+  /* Create the gradient. */
+  background: linear-gradient(180deg, #FFB6FF 0%, #B344FF 100%);
+
+
+  
+  /* Set the background size and repeat properties. */
+  background-size: 100%;
+  background-repeat: repeat;
+
+  /* Use the text as a mask for the background. */
+  /* This will show the gradient as a text color rather than element bg. */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+}
+
+
+.iphone_se{
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.se_content{
+  width: 50%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.se_img{
+  width: 50%;
+  display: flex;
+  justify-content: start;
+}
+
+.se_phone_img{
+  height: 100vh;
+}
+.se_content>h1{
+  margin: 2rem;
+}
+.se_content>h2{
+  margin-bottom: 1.2rem;
+}
+
+.se_content>h1{
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.se_gradient{
+  /* Fallback: Set a background color. */
+  background-color: red;
+  
+  /* Create the gradient. */
+  background: linear-gradient(90deg, #1E3791 0%, #2948B1 40%, #3153C6 55%, #385FDA 60%);
+
+
+
+  
+  /* Set the background size and repeat properties. */
+  background-size: 100%;
+  background-repeat: repeat;
+
+  /* Use the text as a mask for the background. */
+  /* This will show the gradient as a text color rather than element bg. */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+}
+.person_section{
+  display: flex;
+  position: relative;
+  justify-content: center;
+}
+.person_section>img{
+  width: 90%;
+}
+
+.person_content{
+  position: absolute;
+  z-index: 10;
+  top: 50%;
+  left:30rem;
+  color: white;
+}
+.person_content>h2{
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.person_content>h1{
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.watch{
+  height: 3rem;
+  width: 8rem;
+  border-radius: 1.5rem;
+  background-color: white;
+  color: black;
+  /* font-weight: 500; */
+}
+
