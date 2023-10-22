@@ -482,4 +482,87 @@ nav>ul>li>a{
   color: black;
   /* font-weight: 500; */
 }
+.phone_compare{
+  text-align: center;
+  padding: 5rem 0rem;
+}
+.phone_compare>h1{
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 5rem;
+}
 
+.phones{
+  display: flex;
+  width: 50%;
+  margin: 0 auto;
+  justify-content: space-between;
+  align-items: self-start;
+}
+
+.phone{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* text-align: center; */
+}
+.phn_img{
+  height: 16rem;
+  /* width: 10rem; */
+  /* margin-bottom: 1rem; */
+}
+
+
+.colour{
+  margin: 1rem 0rem;
+}
+
+.big{
+  font-size: 0.8rem;
+} 
+
+.phone>h3{
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+}
+
+.phone>h4{
+  margin-bottom: 0.8rem;
+}
+.phone>h5{
+  font-weight: 600;
+  font-size: 1rem;
+  /* margin-bottom: 1rem; */
+}
+.phone>button{
+  font-size: 0.8rem;
+  height: 2rem;
+  width: 3rem;
+  margin: 1rem 0rem;
+}
+
+.blue{
+  color: #0071E3;
+}
+
+
+.phone>p{
+  font-size: 0.8rem;
+  margin-bottom: 0.5rem;
+}
+
+.line{
+  height: 1px;
+  background-color:  #D2D2D7;
+  ;
+  width: 80%;
+  margin: 2rem 0rem;
+}
+
+.feature_img{
+  margin-top:1.8rem;
+}
+.white{
+  color: white;
+}
